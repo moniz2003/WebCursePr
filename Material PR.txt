@@ -1,0 +1,24 @@
+Começar sempe com o <Doctype html>.
+head cabeça e body corpo "hiper texto"
+
+O que é Hipertexto ?
+..
+Tags
+tags delimitadas começam com <> e terminam com </>.
+<DOCTYPE html> = determina que estamos a tratar de um ficheiro ftml 5
+UTF-8 é o padrao que suporta acentuaçao.
+viewport determina que usaremos toda tela do navegador
+hr indica uma linha.
+&lt = < e  &gt = >
+
+---------SIMBOLOS---
+&reg = marca registrada
+&copy = copyrigth
+&trade = marca registrda em ingles
+&euro, yen, cent = moedas
+&Delta = delta triangiulo
+&uparrow = ceta pra cima
+----------------SIES IMAGENS GRATIS--------
+unsplash, PECXELS,.
+baixar o gimp
+

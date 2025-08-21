@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nome-da-loja{
+    background-color: #f0f8ff;
+    color: #000000;
+    text-align: center;
+    padding: 10px;
+    border: solid 3px  #f0f8ff;
+}
+
+.menu-principal{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   padding: 10px 20px;
+   color: white;
+   background-color: black;
+}
+
+.menu-de-opcoes ul {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    gap: 39px; 
+    justify-content: center; 
+    margin-right: 100px;
+    color:#f0f8ff;
+}
+
+.forma-botoes{
+    justify-self: right;
+    margin-right: -200px;
+}
+.menu3 ul {
+    align-items: center;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    padding-left: 150px;
+    padding-right: 150px;
+    color: #000000;
+}
+.img-central{
+  height: 70vh;
+  overflow: hidden;
+}
+.img-central img{
+    /*display: block;
+    margin: 0 auto;*/
+  
+    width: 100%;    
+}
