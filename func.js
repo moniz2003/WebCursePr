@@ -6,7 +6,6 @@ for (let index = 0; index < 5; index++) {
 }
 console.log(lista);
 
-
 let list = ["monz","5","4"];
 for (let element of list) {
 
@@ -14,11 +13,9 @@ for (let element of list) {
     
 }
 
-
 let carro = {cor:"yellow", marca:"mercedes", modelo:"", matricula:"LD-05-89-AO"};
 let palavra="";
 document.writeln(carro.cor," " +carro.marca, " " ,carro.matricula);
-
 
 function media(n1, n2) {
 
@@ -34,7 +31,7 @@ let n1 = prompt("Digite elemento 1");
 let n2 = prompt("Digite elemento 2");
 
 document.writeln("Sua Media é: " ,media(parseFloat(n1), parseFloat(n2)));
-*/
+
 
 function situacao(notanecessaria, notadoaluno) {
     
@@ -53,10 +50,15 @@ let notadoaluno = (parseFloat(n1) + parseFloat(n2))/2;
 
 const notanecessaria = 7;
 
-
-
 document.writeln(`Com as notas ${n1} e ${n2} o aluno  ${situacao(notanecessaria, notadoaluno)}`);
 
+let lista_de_nomes = ["Arroz", "Feijão", "1"];
+console.log(lista_de_nomes);
 
+*/
 
+let bt = document.getElementById("botao1");
 
+bt.addEventListener('click', function name(params) {
+    console.log("Botao Clicado");
+})
